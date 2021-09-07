@@ -1,6 +1,6 @@
 # Are You Smarter Than a GA Penguin?
 
-https://pages.git.generalassemb.ly/chrissharif/Are-You-Smarter-Than-a-GA-Penguin/
+https://pages.git.generalassemb.ly/chrissharif/Are-You-Smarter-Than-a-GA-Penguin/index.html#answers
 
 ## Project Name
 
